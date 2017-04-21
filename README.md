@@ -9,9 +9,8 @@ You basically only need 3 files:
 
 
 # Links
-Blog: http://www.dxsdata.com/2016/07/php-class-for-gardena-smart-system-api/
-Website http://www.dxsdata.com
+- Blog: http://www.dxsdata.com/2016/07/php-class-for-gardena-smart-system-api/
+- Website http://www.dxsdata.com
 
-
-
-(Note: I am note in any association with Gardena or Husqvarna)
+# Disclaimer
+I am note in any association with Gardena or Husqvarna
