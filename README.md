@@ -1,7 +1,7 @@
 # Notes
 This repository contains PHP code and samples for accessing the Gardena Smart API in a quite simple way, e.g. for your home automation solution.
 
-#Usage
+# Usage
 You basically only need 3 files:
 - gardena.class.inc.php (the main file)
 - data.inc.php (see the sample file)
