@@ -1,6 +1,8 @@
 <?php
 
 include("header.inc.php");
+
+$gardena = new gardena($user, $pw);
                  
 $mower = $gardena -> getFirstDeviceOfCategory($gardena::CATEGORY_MOWER);
         
